@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - prodigal=2.6.3
+  - diamond=2.0.14
+  - eggnog-mapper=2.1.10
+  - pip=23.0.1
+  - pip:
+    - emapper2gbk
