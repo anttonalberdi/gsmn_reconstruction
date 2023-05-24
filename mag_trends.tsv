@@ -1,0 +1,826 @@
+mag_id	mag_name	edger_trend	hmsc_trend	domain	phylum	class	order	family	genus	species
+ERR4301269bin.7	cmag_001	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4303136bin.34	cmag_002	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Negativibacillus	Negativibacillus sp900547455
+ERR4303137bin.12	cmag_003	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	UMGS1781	NA
+ERR4303137bin.30	cmag_004	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10873	NA
+ERR4303137bin.34	cmag_005	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UMGS2069	UMGS2069 sp900557695
+ERR4303137bin.35	cmag_006	increaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+ERR4303138bin.28	cmag_007	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4303138bin.37	cmag_008	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	CAG-831	NA
+ERR4303139bin.27	cmag_009	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UBA1417	UBA1417 sp900552925
+ERR4303140bin.1	cmag_010	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	ASF356	NA
+ERR4303147bin.12	cmag_011	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4303147bin.39	cmag_012	stable	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	CAG-274	NA	NA
+ERR4303147bin.44	cmag_013	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-594	NA
+ERR4303147bin.48	cmag_014	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4303147bin.52	cmag_015	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	NA	NA
+ERR4303147bin.54	cmag_016	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4303148bin.1	cmag_017	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides uniformis
+ERR4303148bin.29	cmag_018	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-465	CAG-465	NA
+ERR4303149bin.21	cmag_019	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-314	CAG-1435	CAG-1435 sp000433775
+ERR4303149bin.27	cmag_020	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	Faecalibacterium sp002160915
+ERR4303149bin.29	cmag_021	increaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_E	NA
+ERR4303149bin.36	cmag_022	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4303150bin.25	cmag_023	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	Butyricicoccus pullicaecorum
+ERR4303150bin.41	cmag_024	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp900751785
+ERR4303150bin.6	cmag_025	decreaser	decreaser	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Proteus	Proteus mirabilis
+ERR4303150bin.7	cmag_026	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_D	Enterococcus_D gallinarum
+ERR4303151bin.10	cmag_027	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-314	CAG-314	CAG-314 sp000437915
+ERR4303151bin.35	cmag_028	stable	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp900021155
+ERR4303151bin.51	cmag_029	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UMGS687	NA
+ERR4303151bin.6	cmag_030	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	CAG-110	CAG-110 sp900546915
+ERR4303152bin.33	cmag_031	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1375	NA
+ERR4303152bin.5	cmag_032	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Clostridiales	Clostridiaceae	Dwaynesavagella	Dwaynesavagella sp001655775
+ERR4303152bin.6	cmag_033	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4303154bin.23	cmag_034	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+ERR4303154bin.29	cmag_035	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4303154bin.32	cmag_036	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_A	NA
+ERR4303154bin.33	cmag_037	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4303154bin.37	cmag_038	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Lawsonibacter	Lawsonibacter sp900545895
+ERR4303154bin.7	cmag_039	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Monoglobales_A	UBA1381	12844	NA
+ERR4303155bin.13	cmag_040	stable	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4303155bin.51	cmag_041	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	DTU072	CAG-1782	NA
+ERR4303155bin.7	cmag_042	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	CAG-110	NA
+ERR4303155bin.77	cmag_043	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Lawsonibacter	NA
+ERR4303156bin.11	cmag_044	increaser	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	NA
+ERR4303156bin.12	cmag_045	stable	stable	Bacteria	Firmicutes_C	Negativicutes	Selenomonadales	Selenomonadaceae	Megamonas	Megamonas funiformis
+ERR4303156bin.23	cmag_046	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4303156bin.5	cmag_047	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	DTU072	NA	NA
+ERR4303157bin.17	cmag_048	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Acutalibacter	NA
+ERR4303157bin.8	cmag_049	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	UMGS1004 sp900761685
+ERR4303158bin.17	cmag_050	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4303158bin.24	cmag_051	decreaser	stable	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	NA
+ERR4303158bin.27	cmag_052	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4303158bin.38	cmag_053	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4303158bin.59	cmag_054	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	UMGS1781	NA
+ERR4303158bin.61	cmag_055	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4303159bin.34	cmag_056	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS2016	NA
+ERR4303161bin.16	cmag_057	increaser	increaser	Bacteria	Firmicutes	Bacilli	ML615J-28	CAG-313	CAG-313	CAG-313 sp900539265
+ERR4303161bin.27	cmag_058	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-552	UMGS1880	NA
+ERR4303161bin.36	cmag_059	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4303161bin.39	cmag_060	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS403	UMGS403 sp900541975
+ERR4303161bin.47	cmag_061	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4303161bin.49	cmag_062	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4303161bin.86	cmag_063	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_B	Lachnoclostridium_B phocaeensis
+ERR4303162bin.26	cmag_064	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UMGS1370	NA
+ERR4303162bin.31	cmag_065	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+ERR4303162bin.41	cmag_066	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp900555215
+ERR4303162bin.8	cmag_067	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes_A	Alistipes_A ihumii
+ERR4303163bin.31	cmag_068	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4303163bin.49	cmag_069	stable	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-776	CAG-776 sp900758895
+ERR4303163bin.54	cmag_070	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10873	NA
+ERR4303163bin.60	cmag_071	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UMGS1370	NA
+ERR4303163bin.64	cmag_072	stable	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4303164bin.29	cmag_073	increaser	increaser	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	UBA1829	UBA1829	UBA1829 sp002338895
+ERR4303164bin.43	cmag_074	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA3700	CABKMX01	NA
+ERR4303164bin.45	cmag_075	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4303165bin.17	cmag_076	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4303165bin.34	cmag_077	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	Butyricimonas paravirosa
+ERR4303165bin.63	cmag_078	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4303169bin.21	cmag_079	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Dysosmobacter	NA
+ERR4303169bin.22	cmag_080	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_A	NA
+ERR4303169bin.25	cmag_081	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Anaeromassilibacillus	Anaeromassilibacillus sp002159845
+ERR4303169bin.6	cmag_082	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	Agathobaculum sp900555465
+ERR4303170bin.3	cmag_083	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4303170bin.59	cmag_084	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	An172	An172 sp002160515
+ERR4303170bin.62	cmag_085	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4303171bin.26	cmag_086	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	CAG-274	NA	NA
+ERR4303171bin.43	cmag_087	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	Flavonifractor plautii
+ERR4303172bin.20	cmag_088	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Romboutsia	NA
+ERR4303172bin.39	cmag_089	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	NA
+ERR4303194bin.18	cmag_090	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10873	NA
+ERR4303194bin.54	cmag_091	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Eubacterium_R	Eubacterium_R sp900539845
+ERR4303194bin.64	cmag_092	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4303195bin.1	cmag_093	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4303195bin.15	cmag_094	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	Anaerobutyricum sp900016875
+ERR4303195bin.34	cmag_095	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	UBA1390	NA	NA
+ERR4303195bin.36	cmag_096	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Acutalibacter	Acutalibacter sp900543555
+ERR4303195bin.40	cmag_097	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4303195bin.50	cmag_098	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066135	NA
+ERR4303195bin.51	cmag_099	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerosacchariphilus	NA
+ERR4303195bin.55	cmag_100	increaser	increaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Merdibacter	Merdibacter sp900543035
+ERR4303196bin.52	cmag_101	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp002314255
+ERR4303196bin.67	cmag_102	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA7182	UBA7182 sp002160135
+ERR4303197bin.23	cmag_103	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4303197bin.30	cmag_104	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes finegoldii
+ERR4303197bin.31	cmag_105	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Acetatifactor	NA
+ERR4303197bin.37	cmag_106	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4303197bin.62	cmag_107	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4303197bin.71	cmag_108	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA3700	CABKMX01	NA
+ERR4303198bin.16	cmag_109	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	RUG13868	NA
+ERR4303198bin.17	cmag_110	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+ERR4303198bin.23	cmag_111	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-138	UBA5394	UBA5394 sp003150565
+ERR4303198bin.28	cmag_112	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CHKCI001	NA
+ERR4303198bin.48	cmag_113	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4303198bin.53	cmag_114	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	NA
+ERR4303198bin.62	cmag_115	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	992a	NA
+ERR4303198bin.74	cmag_116	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	HGM12814	NA
+ERR4303198bin.77	cmag_117	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	Barnesiella viscericola
+ERR4303198bin.87	cmag_118	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	UBA644	NA	NA
+ERR4303198bin.91	cmag_119	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4303199bin.13	cmag_120	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	Sellimonas sp002161525
+ERR4303199bin.26	cmag_121	stable	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UMGS966	UMGS966 sp900547185
+ERR4303199bin.55	cmag_122	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CHKCI001	NA
+ERR4303199bin.8	cmag_123	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_B	Lachnoclostridium_B sp002160985
+ERR4303200bin.10	cmag_124	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4303200bin.30	cmag_125	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4303201bin.14	cmag_126	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	GCA-900066135	NA
+ERR4303201bin.25	cmag_127	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Clostridiales	Clostridiaceae	Clostridium	Clostridium cuniculi
+ERR4303201bin.48	cmag_128	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Ruminococcus_G	NA
+ERR4303201bin.49	cmag_129	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR4303202bin.36	cmag_130	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4303202bin.39	cmag_131	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10818	NA
+ERR4303202bin.47	cmag_132	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-465	NA	NA
+ERR4303202bin.55	cmag_133	increaser	stable	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus alactolyticus
+ERR4303202bin.87	cmag_134	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4303202bin.9	cmag_135	stable	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4303216bin.24	cmag_136	decreaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	Ligilactobacillus salivarius
+ERR4303216bin.25	cmag_137	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	RUG12045	NA
+ERR4303216bin.37	cmag_138	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Monoglobales_A	UBA1381	12844	NA
+ERR4303216bin.38	cmag_139	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	QAMI01	QAMI01 sp900554095
+ERR4303216bin.9	cmag_140	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	UMGS1004 sp900548845
+ERR4303218bin.13	cmag_141	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	UBA11517 sp900557645
+ERR4303218bin.35	cmag_142	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	D5	NA
+ERR4303218bin.48	cmag_143	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Peptostreptococcales	Anaerovoracaceae	CAG-145	CAG-145 sp900542565
+ERR4303218bin.57	cmag_144	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4303218bin.59	cmag_145	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-552	UMGS1880	NA
+ERR4303218bin.72	cmag_146	decreaser	stable	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	NA
+ERR4303219bin.15	cmag_147	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+ERR4303219bin.38	cmag_148	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4303219bin.47	cmag_149	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4303219bin.56	cmag_150	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4303219bin.59	cmag_151	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4303219bin.84	cmag_152	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4303219bin.89	cmag_153	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR4303221bin.11	cmag_154	decreaser	stable	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	NA
+ERR4303221bin.5	cmag_155	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	Rikenella massiliensis
+ERR4303221bin.83	cmag_156	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1750	UBA7102	UBA7102 sp900760085
+ERR4303222bin.38	cmag_157	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-776	NA
+ERR4303222bin.53	cmag_158	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4303222bin.56	cmag_159	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+ERR4303222bin.74	cmag_160	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_I	NA
+ERR4304397bin.22	cmag_161	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	NA	NA
+ERR4304397bin.39	cmag_162	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR4304397bin.60	cmag_163	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4304397bin.63	cmag_164	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	NA
+ERR4304450_ERR4303136_ERR4303150bin.29	cmag_165	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-465	CAG-465	NA
+ERR4304450_ERR4303136_ERR4303150bin.49	cmag_166	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1375	UBA1375 sp002305795
+ERR4304450_ERR4303136_ERR4303150bin.93	cmag_167	decreaser	stable	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Klebsiella	Klebsiella pneumoniae
+ERR4304450bin.12	cmag_168	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Monoglobales_A	UBA1381	UBA4716	NA
+ERR4304450bin.39	cmag_169	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4304450bin.42	cmag_170	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	An181	An181 sp002160325
+ERR4304450bin.52	cmag_171	stable	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4304450bin.54	cmag_172	stable	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruminococcus_D	Ruminococcus_D sp900752625
+ERR4304450bin.57	cmag_173	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CHKCI001	NA
+ERR4304450bin.64	cmag_174	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	NA
+ERR4304450bin.69	cmag_175	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UMGS1370	NA
+ERR4304450bin.81	cmag_176	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Dysosmobacter	Dysosmobacter sp900556925
+ERR4304451bin.12	cmag_177	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4304451bin.13	cmag_178	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4304451bin.35	cmag_179	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	NSJ-54	NA
+ERR4304451bin.39	cmag_180	decreaser	increaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Merdibacter	Merdibacter sp900754715
+ERR4304451bin.41	cmag_181	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Acutalibacter	Acutalibacter sp000435395
+ERR4304451bin.49	cmag_182	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA866	NA
+ERR4304451bin.5	cmag_183	stable	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4304451bin.56	cmag_184	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4304451bin.59	cmag_185	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4304451bin.67	cmag_186	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR4304452bin.111	cmag_187	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	NA	NA
+ERR4304452bin.33	cmag_188	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4304452bin.4	cmag_189	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	NA	NA
+ERR4304452bin.53	cmag_190	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	UBA5446 sp900544765
+ERR4304452bin.57	cmag_191	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4304452bin.7	cmag_192	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS2016	NA
+ERR4304452bin.8	cmag_193	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	RUG14240	NA
+ERR4304452bin.98	cmag_194	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-382	UCG-010	NA
+ERR4304454bin.101	cmag_195	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	BX7	JAAYBB01	NA
+ERR4304454bin.104	cmag_196	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4304454bin.106	cmag_197	decreaser	stable	Bacteria	Deferribacterota	Deferribacteres	Deferribacterales	Mucispirillaceae	Mucispirillum	NA
+ERR4304454bin.11	cmag_198	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Acetatifactor	NA
+ERR4304454bin.35	cmag_199	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4304454bin.40	cmag_200	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-138	UMGS946	UMGS946 sp900544965
+ERR4304454bin.62	cmag_201	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4304454bin.69	cmag_202	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	NA
+ERR4304454bin.7	cmag_203	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	OEMS01	NA
+ERR4304454bin.74	cmag_204	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	NA
+ERR4304454bin.8	cmag_205	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	QALR01	NA
+ERR4304454bin.85	cmag_206	increaser	increaser	Bacteria	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-495	NA
+ERR4304454bin.91	cmag_207	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	NA
+ERR4304455bin.104	cmag_208	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	SCN-57-10	NA
+ERR4304455bin.16	cmag_209	stable	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	QAMM01	QAMM01 sp900552945
+ERR4304455bin.18	cmag_210	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4304455bin.34	cmag_211	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA9502	NA
+ERR4304455bin.46	cmag_212	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Dysosmobacter	NA
+ERR4304455bin.49	cmag_213	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-465	CAG-465	NA
+ERR4304455bin.70	cmag_214	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA866	NA
+ERR4304455bin.71	cmag_215	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4304455bin.75	cmag_216	increaser	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Mailhella	Mailhella sp900541395
+ERR4304455bin.84	cmag_217	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4304456bin.102	cmag_218	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	Eisenbergiella sp003343625
+ERR4304456bin.13	cmag_219	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4304456bin.14	cmag_220	decreaser	stable	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Mailhella	NA
+ERR4304456bin.19	cmag_221	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	NA	NA
+ERR4304456bin.21	cmag_222	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR4304456bin.30	cmag_223	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Coprobacteraceae	NA	NA
+ERR4304456bin.40	cmag_224	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	UMGS1670	NA
+ERR4304456bin.46	cmag_225	increaser	stable	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Duodenibacillus	NA
+ERR4304456bin.54	cmag_226	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS1591	NA
+ERR4304456bin.56	cmag_227	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Merdimonas	Merdimonas faecis
+ERR4304456bin.59	cmag_228	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia sp900765525
+ERR4304456bin.6	cmag_229	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnospira	NA
+ERR4304456bin.61	cmag_230	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-877	NA
+ERR4304456bin.84	cmag_231	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus reuteri_E
+ERR4304504bin.1	cmag_232	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS1591	UMGS1591 sp900553255
+ERR4304504bin.13	cmag_233	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	UMGS1670	NA
+ERR4304504bin.21	cmag_234	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4304504bin.46	cmag_235	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerobutyricum	Anaerobutyricum sp002161065
+ERR4304504bin.6	cmag_236	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4304504bin.60	cmag_237	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1448	NA
+ERR4304504bin.66	cmag_238	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	NA
+ERR4304504bin.75	cmag_239	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4304504bin.79	cmag_240	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Eubacterium_R	Eubacterium_R sp000431535
+ERR4304504bin.8	cmag_241	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	UBA8514	NA
+ERR4304504bin.9	cmag_242	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-793	NA
+ERR4304505bin.10	cmag_243	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+ERR4304505bin.105	cmag_244	increaser	stable	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	CAG-312	CAG-312	CAG-312 sp001917305
+ERR4304505bin.107	cmag_245	stable	decreaser	Bacteria	Firmicutes_C	Negativicutes	Acidaminococcales	Acidaminococcaceae	Phascolarctobacterium	Phascolarctobacterium sp000436095
+ERR4304505bin.31	cmag_246	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4304505bin.4	cmag_247	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4304505bin.61	cmag_248	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides merdae
+ERR4304505bin.69	cmag_249	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4304505bin.95	cmag_250	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-138	UBA1685	NA
+ERR4304580bin.21	cmag_251	increaser	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+ERR4304580bin.33	cmag_252	increaser	increaser	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Parasutterella	Parasutterella excrementihominis
+ERR4304580bin.57	cmag_253	decreaser	stable	Bacteria	Firmicutes_C	Negativicutes	Veillonellales	Megasphaeraceae	Megasphaera	Megasphaera elsdenii
+ERR4304580bin.59	cmag_254	increaser	increaser	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	Victivallis sp002998355
+ERR4304580bin.85	cmag_255	decreaser	decreaser	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	UMGS1518	NA
+ERR4304580bin.90	cmag_256	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	UBA11940 sp900549005
+ERR4304580bin.95	cmag_257	increaser	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	Bilophila sp900550745
+ERR4304580bin.96	cmag_258	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Hydrogeniiclostridium	NA
+ERR4304669bin.23	cmag_259	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4304669bin.6	cmag_260	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UMGS1872	NA
+ERR4304808bin.27	cmag_261	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4304808bin.28	cmag_262	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4304808bin.56	cmag_263	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4336989bin.10	cmag_264	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	NA
+ERR4336989bin.105	cmag_265	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Peptostreptococcales	Peptostreptococcaceae	Romboutsia	NA
+ERR4336989bin.122	cmag_266	stable	decreaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Desulfovibrio	Desulfovibrio sp900556755
+ERR4336989bin.124	cmag_267	decreaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	Ligilactobacillus agilis
+ERR4336989bin.13	cmag_268	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_A	NA
+ERR4336989bin.2	cmag_269	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4336989bin.22	cmag_270	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4336989bin.33	cmag_271	increaser	stable	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola barnesiae
+ERR4336989bin.57	cmag_272	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4336989bin.58	cmag_273	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA3402	NA
+ERR4336989bin.74	cmag_274	increaser	stable	Archaea	Methanobacteriota	Methanobacteria	Methanobacteriales	Methanobacteriaceae	Methanobrevibacter_A	Methanobrevibacter_A woesei
+ERR4336989bin.75	cmag_275	increaser	increaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Holdemania	NA
+ERR4336989bin.79	cmag_276	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	NA	NA
+ERR4336989bin.8	cmag_277	increaser	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Mailhella	Mailhella sp900555975
+ERR4336989bin.81	cmag_278	stable	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4336989bin.82	cmag_279	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	Firm-11	Firm-11 sp900540045
+ERR4336989bin.97	cmag_280	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4835843_bin.17	cmag_281	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4835843_bin.18	cmag_282	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	UMGS1004 sp900547645
+ERR4835846_bin.12	cmag_283	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4835846_bin.20	cmag_284	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1572	UMGS1572 sp900553045
+ERR4835846_bin.27	cmag_285	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	NA
+ERR4835846_bin.30	cmag_286	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4835846_bin.32	cmag_287	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4835847_bin.22	cmag_288	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UBA4871	NA
+ERR4835848_bin.12	cmag_289	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	CAG-110	NA
+ERR4835848_bin.3	cmag_290	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS2068	NA
+ERR4835851_bin.23	cmag_291	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Clostridium_A	NA
+ERR4835851_bin.26	cmag_292	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4835853_bin.15	cmag_293	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA3700	CABKMX01	NA
+ERR4835853_bin.4	cmag_294	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA6345	NA
+ERR4835854_bin.13	cmag_295	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4835856_bin.17	cmag_296	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-354	CAG-354 sp001915925
+ERR4835857_bin.2	cmag_297	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR4835858_bin.17	cmag_298	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerosacchariphilus	Anaerosacchariphilus sp002160765
+ERR4835858_bin.25	cmag_299	increaser	increaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Massilicoli	Massilicoli timonensis
+ERR4835858_bin.7	cmag_300	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UMGS1872	NA
+ERR4835859_bin.17	cmag_301	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10873	HGM10873 sp900753645
+ERR4835860_bin.12	cmag_302	decreaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4835860_bin.27	cmag_303	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4835861_bin.18	cmag_304	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+ERR4835861_bin.32	cmag_305	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA6345	NA
+ERR4835861_bin.33	cmag_306	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Pseudoflavonifractor	NA
+ERR4835861_bin.40	cmag_307	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10873	NA
+ERR4835863_bin.21	cmag_308	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	ASF356	NA
+ERR4835864_bin.19	cmag_309	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	NA
+ERR4835864_bin.21	cmag_310	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	NA
+ERR4835864_bin.23	cmag_311	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10873	NA
+ERR4835864_bin.28	cmag_312	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	Zag1	Zag1 sp000438175
+ERR4835864_bin.33	cmag_313	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	UBA7001	UBA7001 sp900553685
+ERR4835864_bin.34	cmag_314	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides congonensis
+ERR4835864_bin.40	cmag_315	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR4835866_bin.13	cmag_316	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4835866_bin.35	cmag_317	stable	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4835866_bin.4	cmag_318	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4835866_bin.40	cmag_319	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10818	NA
+ERR4835867_bin.13	cmag_320	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola dorei
+ERR4835868_bin.3	cmag_321	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4835868_bin.6	cmag_322	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Acutalibacter	NA
+ERR4835869_bin.10	cmag_323	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4835869_bin.30	cmag_324	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4835869_bin.4	cmag_325	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	Butyricicoccus sp900604335
+ERR4835869_bin.45	cmag_326	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	NA
+ERR4835869_bin.47	cmag_327	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus
+ERR4835870_bin.17	cmag_328	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	NA
+ERR4835871_bin.25	cmag_329	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UMGS1826	NA
+ERR4835871_bin.4	cmag_330	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4835932_bin.29	cmag_331	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	QAMI01	NA
+ERR4835932_bin.32	cmag_332	stable	stable	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Helicobacteraceae	Helicobacter_D	Helicobacter_D pullorum
+ERR4835932_bin.7	cmag_333	increaser	stable	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	CAG-484	NA
+ERR4835933_bin.1	cmag_334	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4835934_bin.22	cmag_335	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	Faecalibacterium sp002160895
+ERR4835934_bin.5	cmag_336	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	NA	NA	NA
+ERR4835935_bin.24	cmag_337	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4835935_bin.42	cmag_338	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+ERR4835990_bin.24	cmag_339	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4835990_bin.26	cmag_340	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4835990_bin.33	cmag_341	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+ERR4835990_bin.4	cmag_342	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4835991_bin.6	cmag_343	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1375	NA
+ERR4835993_bin.14	cmag_344	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4835993_bin.35	cmag_345	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+ERR4835993_bin.38	cmag_346	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR4835994_bin.28	cmag_347	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Dysosmobacter	NA
+ERR4835994_bin.32	cmag_348	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-988	CAG-988 sp003149915
+ERR4835994_bin.4	cmag_349	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4835995_bin.4	cmag_350	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4835995_bin.52	cmag_351	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	UMGS1600	UMGS1600 sp900553295
+ERR4835995_bin.58	cmag_352	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1448	NA
+ERR4835996_bin.41	cmag_353	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-822	NA
+ERR4835996_bin.8	cmag_354	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4836027_bin.10	cmag_355	decreaser	stable	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Massiliomicrobiota	Massiliomicrobiota sp002160865
+ERR4836027_bin.15	cmag_356	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4836027_bin.2	cmag_357	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	NA
+ERR4836027_bin.29	cmag_358	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4836028_bin.15	cmag_359	stable	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4836028_bin.18	cmag_360	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4836028_bin.8	cmag_361	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4836036_bin.3	cmag_362	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-988	NA
+ERR4836036_bin.31	cmag_363	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4836036_bin.37	cmag_364	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Hydrogeniiclostridium	NA
+ERR4836036_bin.41	cmag_365	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-465	NA	NA
+ERR4836036_bin.47	cmag_366	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4836036_bin.5	cmag_367	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	UBA7001	NA
+ERR4836037_bin.21	cmag_368	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp002161445
+ERR4836037_bin.28	cmag_369	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	QALS01	NA
+ERR4836885_bin.19	cmag_370	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UMGS1826	NA
+ERR4836885_bin.39	cmag_371	decreaser	stable	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelotrichaceae	Merdibacter	NA
+ERR4836886_bin.12	cmag_372	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-180	NA
+ERR4836886_bin.36	cmag_373	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4836886_bin.6	cmag_374	stable	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS1397	NA
+ERR4836886_bin.9	cmag_375	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4836887_bin.32	cmag_376	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4836887_bin.35	cmag_377	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4836887_bin.5	cmag_378	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4836887_bin.54	cmag_379	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+ERR4836888_bin.14	cmag_380	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-793	NA
+ERR4836888_bin.30	cmag_381	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-552	UMGS1880	NA
+ERR4836889_bin.13	cmag_382	increaser	increaser	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Parasutterella	Parasutterella sp000980495
+ERR4836889_bin.41	cmag_383	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4836889_bin.9	cmag_384	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4836908_bin.15	cmag_385	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4836908_bin.3	cmag_386	increaser	increaser	Bacteria	Firmicutes_B	Dehalobacteriia	UBA4068	UBA5755	NA	NA
+ERR4836908_bin.35	cmag_387	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	UMGS1994	NA
+ERR4836908_bin.42	cmag_388	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4836908_bin.47	cmag_389	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4836908_bin.48	cmag_390	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	UBA7001	NA
+ERR4836908_bin.60	cmag_391	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp900544265
+ERR4836913_bin.14	cmag_392	decreaser	stable	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	NA
+ERR4836913_bin.18	cmag_393	decreaser	decreaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides eggerthii
+ERR4836913_bin.8	cmag_394	increaser	increaser	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	CAG-521	NA
+ERR4836918_bin.11	cmag_395	decreaser	stable	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_D	Campylobacter_D jejuni
+ERR4836918_bin.17	cmag_396	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4836921_bin.30	cmag_397	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	QALS01	NA
+ERR4836924_bin.33	cmag_398	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4836924_bin.7	cmag_399	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4836925_bin.12	cmag_400	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4836925_bin.17	cmag_401	decreaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-877	CAG-877 sp900554305
+ERR4836925_bin.9	cmag_402	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	CAG-306	NA
+ERR4836926_bin.106	cmag_403	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Anaerotruncus	Anaerotruncus colihominis
+ERR4836926_bin.107	cmag_404	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4836926_bin.25	cmag_405	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Negativibacillus	Negativibacillus massiliensis
+ERR4836926_bin.28	cmag_406	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA9475	NA
+ERR4836926_bin.3	cmag_407	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	UBA5446 sp900543085
+ERR4836926_bin.42	cmag_408	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4836926_bin.49	cmag_409	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Massiliomicrobiota	Massiliomicrobiota sp002160815
+ERR4836926_bin.59	cmag_410	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1448	NA
+ERR4836926_bin.71	cmag_411	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	NA
+ERR4836926_bin.83	cmag_412	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UBA737	NA
+ERR4836928_bin.17	cmag_413	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4836928_bin.22	cmag_414	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4836928_bin.27	cmag_415	stable	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides togonis
+ERR4836928_bin.7	cmag_416	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp900540105
+ERR4836928_bin.9	cmag_417	decreaser	decreaser	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	CAG-521	CAG-521 sp900544345
+ERR4836929_bin.13	cmag_418	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+ERR4836929_bin.8	cmag_419	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_B	Lachnoclostridium_B sp000765215
+ERR4836930_bin.26	cmag_420	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	Barnesiella sp002159975
+ERR4836932_bin.6	cmag_421	stable	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Mailhella	Mailhella sp003150275
+ERR4836934_bin.21	cmag_422	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides clarus
+ERR4836934_bin.35	cmag_423	stable	stable	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Coprobacteraceae	Coprobacter	Coprobacter secundus
+ERR4836935_bin.21	cmag_424	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Butyricimonas	NA
+ERR4836935_bin.26	cmag_425	stable	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4836936_bin.13	cmag_426	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+ERR4836936_bin.17	cmag_427	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp900761655
+ERR4836937_bin.12	cmag_428	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-822	CAG-822 sp000432855
+ERR4836937_bin.2	cmag_429	decreaser	stable	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella_E	Olsenella_E sp002305805
+ERR4836937_bin.24	cmag_430	increaser	stable	Archaea	Thermoplasmatota	Thermoplasmata	Methanomassiliicoccales	Methanomassiliicoccaceae	Methanomassiliicoccus_A	NA
+ERR4836937_bin.35	cmag_431	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	Borkfalkia sp900761665
+ERR4836937_bin.38	cmag_432	decreaser	stable	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella_E	NA
+ERR4836937_bin.47	cmag_433	stable	stable	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Enorma	Enorma massiliensis
+ERR4836937_bin.7	cmag_434	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	HGM11575	NA
+ERR4836937_bin.9	cmag_435	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	CAG-460 sp900546715
+ERR4836938_bin.15	cmag_436	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-552	UMGS1795	UMGS1795 sp900553555
+ERR4836938_bin.26	cmag_437	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	Barnesiella sp900538705
+ERR4836938_bin.48	cmag_438	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-552	UBA10677	UBA10677 sp900543755
+ERR4836939_bin.20	cmag_439	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp900546065
+ERR4836939_bin.30	cmag_440	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	CAG-484	CAG-484 sp000431315
+ERR4836939_bin.40	cmag_441	stable	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	HGM13222	NA
+ERR4836940_bin.16	cmag_442	decreaser	stable	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	An2-A	NA
+ERR4836940_bin.30	cmag_443	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	UMGS1864	NA
+ERR4836940_bin.4	cmag_444	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-552	UMGS1880	UMGS1880 sp900761765
+ERR4836941_bin.10	cmag_445	increaser	stable	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp900546095
+ERR4836941_bin.22	cmag_446	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1448	NA
+ERR4836941_bin.42	cmag_447	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UMGS1872	UMGS1872 sp900549475
+ERR4836942_bin.19	cmag_448	decreaser	stable	Bacteria	Firmicutes	Bacilli	Acholeplasmatales	Anaeroplasmataceae	UMGS268	UMGS268 sp900540175
+ERR4836942_bin.46	cmag_449	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-302	NA
+ERR4836942_bin.7	cmag_450	stable	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-594	NA
+ERR4836944_bin.18	cmag_451	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	Borkfalkia sp900761675
+ERR4836946_bin.19	cmag_452	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UMGS1826	NA
+ERR4836946_bin.32	cmag_453	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	Flavonifractor sp002161215
+ERR4836947_bin.43	cmag_454	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Tidjanibacter	Tidjanibacter inops_A
+ERR4836947_bin.46	cmag_455	stable	stable	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Sutterella	NA
+ERR4836947_bin.56	cmag_456	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-917	UMGS1688	NA
+ERR4836948_bin.29	cmag_457	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4836948_bin.32	cmag_458	increaser	increaser	Bacteria	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-495	NA
+ERR4836948_bin.4	cmag_459	decreaser	increaser	Bacteria	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-267	CAG-267 sp001917135
+ERR4836948_bin.53	cmag_460	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Frisingicoccus	Frisingicoccus sp900753685
+ERR4836949_bin.12	cmag_461	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4836949_bin.22	cmag_462	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola plebeius_A
+ERR4836949_bin.36	cmag_463	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	Flavonifractor sp002161085
+ERR4836950_bin.14	cmag_464	stable	stable	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gallinarum
+ERR4836950_bin.18	cmag_465	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Flavobacteriales	UBA1820	UBA1820	UBA1820 sp002314265
+ERR4836950_bin.25	cmag_466	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UBA7067	NA
+ERR4836950_bin.3	cmag_467	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4836950_bin.43	cmag_468	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4836951_bin.32	cmag_469	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	NA
+ERR4836953_bin.26	cmag_470	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Dysosmobacter	NA
+ERR4836953_bin.28	cmag_471	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA3700	CABKMX01	NA
+ERR4836954_bin.5	cmag_472	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelatoclostridium	Erysipelatoclostridium ramosum
+ERR4836956_bin.17	cmag_473	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA11471	UBA11471	UBA11471 sp900542765
+ERR4836956_bin.18	cmag_474	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4836956_bin.24	cmag_475	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UBA7057	UBA7057 sp900543675
+ERR4836956_bin.34	cmag_476	decreaser	stable	Bacteria	Firmicutes	Bacilli	Bacillales	NA	NA	NA
+ERR4836957_bin.16	cmag_477	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4836957_bin.34	cmag_478	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA3818	NA
+ERR4836957_bin.5	cmag_479	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4836957_bin.9	cmag_480	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS1839	NA
+ERR4836958_bin.14	cmag_481	increaser	increaser	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	Victivallis sp900551245
+ERR4836958_bin.2	cmag_482	decreaser	stable	Bacteria	Proteobacteria	Alphaproteobacteria	RF32	CAG-977	CAG-977	NA
+ERR4836958_bin.25	cmag_483	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	UBA5446 sp900759385
+ERR4836958_bin.29	cmag_484	decreaser	stable	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Opitutales	CAG-312	CAG-312	CAG-312 sp900545715
+ERR4836958_bin.33	cmag_485	stable	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4836958_bin.38	cmag_486	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Muribaculaceae	CAG-279	CAG-279 sp900544305
+ERR4836958_bin.39	cmag_487	decreaser	stable	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	CAG-521	CAG-521 sp002329575
+ERR4836959_bin.22	cmag_488	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Clostridium_Q	Clostridium_Q saccharolyticum_A
+ERR4836959_bin.28	cmag_489	increaser	increaser	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Sutterella	Sutterella sp900543805
+ERR4836959_bin.41	cmag_490	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Pseudoflavonifractor	NA
+ERR4836959_bin.7	cmag_491	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Tidjanibacter	NA
+ERR4836960_bin.14	cmag_492	stable	increaser	Bacteria	Actinobacteriota	Actinomycetia	Actinomycetales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium gallinarum
+ERR4836960_bin.34	cmag_493	increaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus oris
+ERR4836960_bin.5	cmag_494	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_B	Enterococcus_B hirae
+ERR4836961_bin.23	cmag_495	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4836961_bin.45	cmag_496	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_A	NA
+ERR4836961_bin.58	cmag_497	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4836961_bin.70	cmag_498	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR4836961_bin.71	cmag_499	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Hydrogeniiclostridium	NA
+ERR4836961_bin.78	cmag_500	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4836962_bin.31	cmag_501	increaser	increaser	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	Duodenibacillus	Duodenibacillus sp900538905
+ERR4836962_bin.52	cmag_502	stable	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	CAG-81	CAG-81 sp900541255
+ERR4836962_bin.59	cmag_503	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	NA	NA
+ERR4836962_bin.62	cmag_504	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4836963_bin.73	cmag_505	stable	increaser	Bacteria	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-495	CAG-495 sp000436375
+ERR4836963_bin.78	cmag_506	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	CAG-484	NA
+ERR4836963_bin.79	cmag_507	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR4836964_bin.1	cmag_508	increaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus ingluviei
+ERR4836964_bin.18	cmag_509	stable	stable	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	NA
+ERR4836964_bin.21	cmag_510	decreaser	stable	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacterales	Enterobacteriaceae	Escherichia	Escherichia flexneri
+ERR4836964_bin.23	cmag_511	stable	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Barnesiellaceae	Barnesiella	Barnesiella intestinihominis
+ERR4836964_bin.35	cmag_512	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4836964_bin.45	cmag_513	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	HGM13634	NA
+ERR4836964_bin.67	cmag_514	increaser	increaser	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	Victivallis sp900768515
+ERR4836965_bin.64	cmag_515	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4836965_bin.79	cmag_516	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4836965_bin.80	cmag_517	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-917	UMGS1688	UMGS1688 sp900754695
+ERR4836965_bin.89	cmag_518	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4836965_bin.9	cmag_519	increaser	stable	Bacteria	Campylobacterota	Campylobacteria	Campylobacterales	Campylobacteraceae	Campylobacter_D	Campylobacter_D coli
+ERR4836966_bin.112	cmag_520	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-776	NA
+ERR4836966_bin.15	cmag_521	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	NA
+ERR4836966_bin.3	cmag_522	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	NA	NA
+ERR4836966_bin.38	cmag_523	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4836966_bin.39	cmag_524	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	Firm-11	Firm-11 sp900553905
+ERR4836966_bin.50	cmag_525	stable	stable	Bacteria	Deferribacterota	Deferribacteres	Deferribacterales	Mucispirillaceae	Mucispirillum	NA
+ERR4836966_bin.55	cmag_526	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4836966_bin.76	cmag_527	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4836966_bin.8	cmag_528	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	UBA940	NA
+ERR4836966_bin.81	cmag_529	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	HGM11575	NA
+ERR4836966_bin.83	cmag_530	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	NA
+ERR4836966_bin.91	cmag_531	increaser	stable	Bacteria	Proteobacteria	Alphaproteobacteria	RF32	UBA3637	NA	NA
+ERR4968556_bin.9	cmag_532	decreaser	decreaser	Bacteria	Patescibacteria	Saccharimonadia	Saccharimonadales	Saccharimonadaceae	UBA2866	NA
+ERR4968559_bin.17	cmag_533	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-314	UMGS929	UMGS929 sp900546875
+ERR4968560_bin.12	cmag_534	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS2068	NA
+ERR4968564_bin.11	cmag_535	stable	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp002161765
+ERR4968564_bin.18	cmag_536	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4968564_bin.7	cmag_537	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4968565_bin.12	cmag_538	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+ERR4968565_bin.23	cmag_539	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	RUG14156	NA	NA
+ERR4968565_bin.3	cmag_540	increaser	increaser	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	CAG-521	CAG-521 sp000437635
+ERR4968566_bin.20	cmag_541	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	NA
+ERR4968567_bin.25	cmag_542	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4968569_bin.27	cmag_543	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp900066445
+ERR4968570_bin.16	cmag_544	stable	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4968570_bin.31	cmag_545	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4968571_bin.10	cmag_546	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1448	NA
+ERR4968574_bin.18	cmag_547	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4968574_bin.31	cmag_548	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	Zag1	Zag1 sp000437435
+ERR4968575_bin.35	cmag_549	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-822	NA
+ERR4968576_bin.20	cmag_550	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4968576_bin.9	cmag_551	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	CAG-180	CAG-180 sp002314305
+ERR4968577_bin.3	cmag_552	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-793	NA
+ERR4968577_bin.33	cmag_553	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	Zag1	NA
+ERR4968579_bin.26	cmag_554	decreaser	stable	Archaea	Halobacteriota	Methanomicrobia	Methanomicrobiales	Methanocorpusculaceae	Methanocorpusculum	NA
+ERR4968579_bin.33	cmag_555	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4968580_bin.12	cmag_556	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4968580_bin.19	cmag_557	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4968581_bin.26	cmag_558	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis_A
+ERR4968582_bin.9	cmag_559	increaser	increaser	Bacteria	Verrucomicrobiota	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia	Akkermansia muciniphila
+ERR4968584_bin.51	cmag_560	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	Anaerotignum lactatifermentans
+ERR4968585_bin.1	cmag_561	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	NA
+ERR4968585_bin.28	cmag_562	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp900554045
+ERR4968585_bin.29	cmag_563	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella sp000433175
+ERR4968586_bin.17	cmag_564	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+ERR4968586_bin.20	cmag_565	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4968586_bin.6	cmag_566	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Limosilactobacillus	Limosilactobacillus vaginalis
+ERR4968586_bin.9	cmag_567	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	NA
+ERR4968587_bin.12	cmag_568	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4968587_bin.9	cmag_569	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	Agathobaculum sp900557315
+ERR4968588_bin.12	cmag_570	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eisenbergiella	Eisenbergiella sp900544445
+ERR4968590_bin.12	cmag_571	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UBA7182	NA
+ERR4968590_bin.2	cmag_572	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+ERR4968590_bin.22	cmag_573	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia sp900543715
+ERR4968590_bin.38	cmag_574	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4968590_bin.6	cmag_575	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4968592_bin.39	cmag_576	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	NA
+ERR4968592_bin.9	cmag_577	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR4968593_bin.10	cmag_578	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4968593_bin.11	cmag_579	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-776	NA
+ERR4968593_bin.22	cmag_580	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968593_bin.27	cmag_581	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4968593_bin.55	cmag_582	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-776	NA
+ERR4968594_bin.22	cmag_583	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelatoclostridium	Erysipelatoclostridium spiroforme
+ERR4968594_bin.36	cmag_584	decreaser	increaser	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	CHKCI006	CHKCI006 sp900018345
+ERR4968595_bin.28	cmag_585	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	NA	NA	NA
+ERR4968595_bin.6	cmag_586	increaser	stable	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	NA	NA	NA
+ERR4968596_bin.3	cmag_587	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	UMGS1670	UMGS1670 sp902406135
+ERR4968597_bin.16	cmag_588	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4968597_bin.17	cmag_589	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	An92	NA
+ERR4968597_bin.38	cmag_590	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides fragilis
+ERR4968597_bin.7	cmag_591	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	NA
+ERR4968598_bin.19	cmag_592	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4968598_bin.20	cmag_593	stable	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4968598_bin.22	cmag_594	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UMGS1370	NA
+ERR4968598_bin.23	cmag_595	stable	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4968598_bin.3	cmag_596	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes communis
+ERR4968598_bin.36	cmag_597	decreaser	decreaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides faecis
+ERR4968598_bin.42	cmag_598	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Coprobacteraceae	Coprobacter	Coprobacter fastidiosus
+ERR4968598_bin.45	cmag_599	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides	Bacteroides caccae
+ERR4968598_bin.54	cmag_600	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4968599_bin.14	cmag_601	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	Sellimonas intestinalis
+ERR4968599_bin.3	cmag_602	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	AM07-15	NA
+ERR4968599_bin.40	cmag_603	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	NA
+ERR4968600_bin.1	cmag_604	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+ERR4968600_bin.15	cmag_605	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	OF09-33XD	NA
+ERR4968600_bin.3	cmag_606	increaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Ligilactobacillus	Ligilactobacillus aviarius
+ERR4968600_bin.32	cmag_607	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4968601_bin.23	cmag_608	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-382	UMGS882	UMGS882 sp003343885
+ERR4968601_bin.28	cmag_609	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	CAG-831	NA
+ERR4968601_bin.51	cmag_610	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes_A	NA
+ERR4968602_bin.17	cmag_611	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	UBA644	NA	NA
+ERR4968602_bin.25	cmag_612	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Faecalibacterium	NA
+ERR4968602_bin.26	cmag_613	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968602_bin.3	cmag_614	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	UBA644	NA	NA
+ERR4968602_bin.5	cmag_615	increaser	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Nitratidesulfovibrio	Nitratidesulfovibrio vulgaris
+ERR4968602_bin.57	cmag_616	stable	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4968602_bin.63	cmag_617	stable	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4968602_bin.67	cmag_618	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	CAG-273 sp900752335
+ERR4968602_bin.74	cmag_619	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4968602_bin.80	cmag_620	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968603_bin.15	cmag_621	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4968603_bin.24	cmag_622	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4968603_bin.31	cmag_623	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR4968603_bin.35	cmag_624	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus johnsonii
+ERR4968603_bin.37	cmag_625	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4968603_bin.41	cmag_626	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4968603_bin.56	cmag_627	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	Fusicatenibacter sp900543115
+ERR4968604_bin.20	cmag_628	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Enterocloster	Enterocloster sp900547035
+ERR4968605_bin.39	cmag_629	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UC5-1-2E3	UC5-1-2E3 sp001304875
+ERR4968606_bin.18	cmag_630	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968606_bin.83	cmag_631	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4968608_bin.33	cmag_632	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides distasonis
+ERR4968608_bin.54	cmag_633	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10873	NA
+ERR4968671_bin.1	cmag_634	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4968671_bin.11	cmag_635	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	UBA3382	NA
+ERR4968671_bin.17	cmag_636	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	UBA932	RC9	NA
+ERR4968671_bin.4	cmag_637	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Phocaeicola	Phocaeicola sp900553715
+ERR4968671_bin.51	cmag_638	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Bacteroidaceae	Prevotella	Prevotella lascolaii
+ERR4968671_bin.54	cmag_639	decreaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides	Parabacteroides sp900552415
+ERR4968673_bin.37	cmag_640	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp002160525
+ERR4968673_bin.41	cmag_641	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR4968678_bin.24	cmag_642	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4968678_bin.28	cmag_643	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4968678_bin.37	cmag_644	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR4968678_bin.39	cmag_645	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968678_bin.5	cmag_646	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-822	NA
+ERR4968678_bin.54	cmag_647	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Monoglobales_A	UBA1381	HGM11525	NA
+ERR4968678_bin.68	cmag_648	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4968681_bin.18	cmag_649	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968681_bin.22	cmag_650	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4968681_bin.4	cmag_651	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes sp900290115
+ERR4968681_bin.50	cmag_652	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10818	NA
+ERR4968687_bin.20	cmag_653	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1648	UMGS1648 sp900553765
+ERR4968687_bin.22	cmag_654	increaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4968687_bin.30	cmag_655	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-822	NA
+ERR4968687_bin.40	cmag_656	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UBA7057	NA
+ERR4968687_bin.45	cmag_657	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4968687_bin.63	cmag_658	stable	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	NA	NA
+ERR4968687_bin.69	cmag_659	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	NA	NA
+ERR4968704_bin.2	cmag_660	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-354	NA
+ERR4968704_bin.38	cmag_661	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-776	NA
+ERR4968704_bin.39	cmag_662	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968704_bin.51	cmag_663	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	CAG-110	NA
+ERR4968704_bin.83	cmag_664	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR4968705_bin.113	cmag_665	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Sellimonas	Sellimonas sp002159995
+ERR4968705_bin.24	cmag_666	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-465	CAG-465	NA
+ERR4968705_bin.27	cmag_667	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Ruminococcus_G	NA
+ERR4968705_bin.43	cmag_668	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Eubacterium_I	NA
+ERR4968705_bin.53	cmag_669	stable	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	NA
+ERR4968705_bin.54	cmag_670	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4968705_bin.90	cmag_671	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-451	NA
+ERR4968711_bin.16	cmag_672	stable	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UMGS1826	NA
+ERR4968711_bin.17	cmag_673	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Clostridium_A	NA
+ERR4968711_bin.19	cmag_674	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Acutalibacter	Acutalibacter sp900755895
+ERR4968711_bin.32	cmag_675	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Fusicatenibacter	NA
+ERR4968711_bin.38	cmag_676	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	NA	NA
+ERR4968711_bin.58	cmag_677	decreaser	stable	Bacteria	Firmicutes	Bacilli	Erysipelotrichales	Erysipelatoclostridiaceae	Erysipelatoclostridium	Erysipelatoclostridium sp002160495
+ERR4968711_bin.9	cmag_678	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	NA
+ERR4968712_bin.107	cmag_679	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-917	UMGS1688	NA
+ERR4968712_bin.113	cmag_680	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	QAMI01	QAMI01 sp900551915
+ERR4968712_bin.124	cmag_681	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	NA	NA
+ERR4968712_bin.129	cmag_682	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1409	UBA1409 sp002305045
+ERR4968712_bin.26	cmag_683	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4968712_bin.40	cmag_684	decreaser	stable	Bacteria	Synergistota	Synergistia	Synergistales	Synergistaceae	An23	An23 sp900544635
+ERR4968712_bin.49	cmag_685	increaser	increaser	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	NA
+ERR4968712_bin.50	cmag_686	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-917	UMGS1688	UMGS1688 sp900554085
+ERR4968712_bin.51	cmag_687	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4968712_bin.54	cmag_688	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	UMGS1865	NA
+ERR4968712_bin.56	cmag_689	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR4968712_bin.57	cmag_690	increaser	stable	Bacteria	Proteobacteria	Gammaproteobacteria	Burkholderiales	Burkholderiaceae	CAG-521	NA
+ERR4968712_bin.64	cmag_691	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	OEMS01	NA
+ERR4968712_bin.70	cmag_692	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA4626	NA
+ERR4968712_bin.78	cmag_693	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-382	UCG-010	UCG-010 sp900754535
+ERR4968712_bin.84	cmag_694	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4968712_bin.88	cmag_695	stable	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA1777	NA
+ERR4968712_bin.9	cmag_696	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4968712_bin.98	cmag_697	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	NA	NA
+ERR4969053_bin.1	cmag_698	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	QALS01	NA
+ERR4969053_bin.15	cmag_699	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	Mediterraneibacter sp002161355
+ERR4969053_bin.24	cmag_700	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	HGM11808	NA
+ERR4969053_bin.25	cmag_701	stable	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	NA	NA
+ERR4969053_bin.26	cmag_702	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UMGS599	NA
+ERR4969053_bin.29	cmag_703	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Anaerofilum	Anaerofilum sp002160015
+ERR4969053_bin.40	cmag_704	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	UBA1390	UBA1390	UBA1390 sp002305315
+ERR4969053_bin.41	cmag_705	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	AM51-8	AM51-8 sp900761925
+ERR4969053_bin.48	cmag_706	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Catenibacillus	NA
+ERR4969053_bin.54	cmag_707	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_B	Lachnoclostridium_B sp900543315
+ERR4969053_bin.55	cmag_708	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4969053_bin.72	cmag_709	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Catenibacillus	NA
+ERR4969053_bin.79	cmag_710	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Monoglobales	Monoglobaceae	NA	NA
+ERR4969053_bin.8	cmag_711	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Evtepia	Evtepia sp900546255
+ERR4969053_bin.82	cmag_712	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	Fournierella sp002161595
+ERR4969053_bin.83	cmag_713	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	CAG-274	UMGS1441	NA
+ERR4969053_bin.9	cmag_714	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	Ruthenibacterium sp900546885
+ERR4969151_bin.1	cmag_715	stable	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerosacchariphilus	NA
+ERR4969151_bin.101	cmag_716	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-776	NA
+ERR4969151_bin.113	cmag_717	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	UMGS951	UMGS951 sp900547155
+ERR4969151_bin.115	cmag_718	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	UBA5446 sp004553625
+ERR4969151_bin.118	cmag_719	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter	Odoribacter splanchnicus
+ERR4969151_bin.130	cmag_720	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR4969151_bin.134	cmag_721	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR4969151_bin.135	cmag_722	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	NA
+ERR4969151_bin.142	cmag_723	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	Anaerotignum	NA
+ERR4969151_bin.144	cmag_724	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Hydrogeniiclostridium	NA
+ERR4969151_bin.145	cmag_725	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Dysosmobacter	NA
+ERR4969151_bin.20	cmag_726	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-273	NA
+ERR4969151_bin.33	cmag_727	stable	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	NA	NA
+ERR4969151_bin.47	cmag_728	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1405	UBA1405 sp002305685
+ERR4969151_bin.53	cmag_729	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Anaerotruncus	NA
+ERR4969151_bin.62	cmag_730	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR4969151_bin.64	cmag_731	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_A	NA
+ERR4969151_bin.66	cmag_732	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Clostridium_Q	NA
+ERR4969151_bin.67	cmag_733	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Rikenella	NA
+ERR4969151_bin.81	cmag_734	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4969151_bin.82	cmag_735	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-793	NA
+ERR4969151_bin.85	cmag_736	increaser	increaser	Bacteria	Desulfobacterota	Desulfovibrionia	Desulfovibrionales	Desulfovibrionaceae	Bilophila	NA
+ERR4969151_bin.9	cmag_737	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+ERR4992195_bin.27	cmag_738	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	An114	An114 sp002161055
+ERR4992195_bin.8	cmag_739	decreaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR4992208_bin.26	cmag_740	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Angelakisella	Angelakisella massiliensis
+ERR4992208_bin.29	cmag_741	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10766	NA
+ERR4992208_bin.47	cmag_742	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerosacchariphilus	Anaerosacchariphilus sp002160825
+ERR4992208_bin.52	cmag_743	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	Borkfalkia	Borkfalkia sp003343765
+ERR4992208_bin.53	cmag_744	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-465	NA	NA
+ERR4993373_bin.10	cmag_745	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Anaerofilum	NA
+ERR4993373_bin.5	cmag_746	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	NA
+ERR4993373_bin.50	cmag_747	increaser	increaser	Bacteria	Proteobacteria	Alphaproteobacteria	Rs-D84	Rs-D84	Rs-D84	Rs-D84 sp900546185
+ERR4993373_bin.59	cmag_748	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA9475	UBA9475 sp002161675
+ERR4993378_bin.4	cmag_749	stable	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Intestinimonas	Intestinimonas timonensis
+ERR4993378_bin.43	cmag_750	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	UMGS1370	NA
+ERR4993378_bin.50	cmag_751	decreaser	decreaser	Bacteria	Actinobacteriota	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Rubneribacter	Rubneribacter badeniensis
+ERR4993378_bin.6	cmag_752	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR4993381_bin.14	cmag_753	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-452	NA
+ERR4993381_bin.24	cmag_754	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Ruthenibacterium	Ruthenibacterium sp002315015
+ERR4993381_bin.28	cmag_755	increaser	increaser	Bacteria	Cyanobacteria	Vampirovibrionia	Gastranaerophilales	Gastranaerophilaceae	CAG-306	CAG-306 sp000980375
+ERR4993381_bin.30	cmag_756	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-877	NA
+ERR4993381_bin.53	cmag_757	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	NA	NA
+ERR4993381_bin.57	cmag_758	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	NA
+ERR4993381_bin.66	cmag_759	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	UMGS403	UMGS403 sp900541565
+ERR4993381_bin.77	cmag_760	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	HGM13634	NA
+ERR4993382_bin.29	cmag_761	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	CAG-460 sp900751815
+ERR4993382_bin.35	cmag_762	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	NA
+ERR4993382_bin.39	cmag_763	increaser	increaser	Bacteria	Firmicutes	Bacilli	RFN20	CAG-631	CAG-631	CAG-631 sp000433015
+ERR4993662_bin.105	cmag_764	increaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus_E	Enterococcus_E cecorum
+ERR4993662_bin.106	cmag_765	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	HGM10818	NA
+ERR4993662_bin.24	cmag_766	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	NA	NA
+ERR4993662_bin.31	cmag_767	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA5893	NA
+ERR4993662_bin.43	cmag_768	increaser	increaser	Bacteria	Verrucomicrobiota	Lentisphaeria	Victivallales	Victivallaceae	Victivallis	Victivallis vadensis
+ERR4993662_bin.45	cmag_769	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	UBA5446	UBA5446 sp900544295
+ERR4993662_bin.60	cmag_770	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Acutalibacter	NA
+ERR4993662_bin.61	cmag_771	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	CAG-74	HGM11588	HGM11588 sp900754755
+ERR4993662_bin.64	cmag_772	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	UBA1212	UBA1255	UMGS1537	UMGS1537 sp900543695
+ERR4993662_bin.75	cmag_773	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	HGM11417	HGM11417	NA
+ERR4993662_bin.82	cmag_774	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	CAG-272	UMGS874	NA
+ERR7167026_bin.11	cmag_775	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	CAG-274	NA	NA
+ERR7167028_bin.4	cmag_776	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-354	NA
+ERR7167029_bin.12	cmag_777	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR7167029_bin.23	cmag_778	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Anaerostipes	NA
+ERR7167032_bin.11	cmag_779	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-460	NA
+ERR7167033_bin.10	cmag_780	increaser	increaser	Bacteria	Bacteroidota	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes	Alistipes putredinis
+ERR7167033_bin.15	cmag_781	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-594	NA
+ERR7167033_bin.2	cmag_782	decreaser	decreaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus crispatus
+ERR7167033_bin.36	cmag_783	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	Hydrogeniiclostridium	Hydrogeniiclostridium sp002160025
+ERR7167034_bin.20	cmag_784	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	Gemmiger sp900548355
+ERR7167036_bin.15	cmag_785	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1409	UBA1409 sp002338885
+ERR7167036_bin.21	cmag_786	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	CAG-274	NA	NA
+ERR7167036_bin.3	cmag_787	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR7167037_bin.6	cmag_788	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	An92	NA
+ERR7167037_bin.7	cmag_789	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Lachnoclostridium_A	Lachnoclostridium_A sp002160755
+ERR7167041_bin.23	cmag_790	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Oscillospiraceae	Flavonifractor	NA
+ERR7167041_bin.33	cmag_791	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia	Blautia sp002161285
+ERR7167042_bin.4	cmag_792	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-793	NA
+ERR7167043_bin.17	cmag_793	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Agathobaculum	NA
+ERR7167044_bin.8	cmag_794	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	NA
+ERR7167046_bin.20	cmag_795	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Roseburia	NA
+ERR7167046_bin.3	cmag_796	increaser	stable	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR7167046_bin.6	cmag_797	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR7167047_bin.17	cmag_798	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Gemmiger	NA
+ERR7167047_bin.8	cmag_799	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1375	NA
+ERR7167048_bin.28	cmag_800	increaser	increaser	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gallolyticus
+ERR7167048_bin.34	cmag_801	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	NA
+ERR7167048_bin.40	cmag_802	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Blautia_A	Blautia_A sp002159835
+ERR7167050_bin.2	cmag_803	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	NA
+ERR7167052_bin.10	cmag_804	decreaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR7167052_bin.12	cmag_805	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	Fournierella	Fournierella massiliensis
+ERR7167053_bin.31	cmag_806	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UMGS1004	UMGS1004 sp003343805
+ERR7167053_bin.9	cmag_807	increaser	stable	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR7167059_bin.11	cmag_808	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR7167059_bin.12	cmag_809	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA
+ERR7167062_bin.12	cmag_810	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-245	NA
+ERR7167062_bin.36	cmag_811	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	UBA1242	UBA11517	NA
+ERR7167062_bin.47	cmag_812	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-354	NA
+ERR7167062_bin.49	cmag_813	increaser	increaser	Bacteria	Firmicutes_A	Clostridia_A	Christensenellales	Borkfalkiaceae	UBA11940	NA
+ERR7167063_bin.17	cmag_814	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Anaerotignaceae	An114	NA
+ERR7167063_bin.29	cmag_815	increaser	increaser	Bacteria	Proteobacteria	Alphaproteobacteria	RF32	CAG-239	CAG-495	CAG-495 sp001917125
+ERR7167063_bin.30	cmag_816	increaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Butyricicoccaceae	Butyricicoccus	NA
+ERR7167063_bin.32	cmag_817	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Ruminococcaceae	UBA1409	NA
+ERR7167064_bin.1	cmag_818	increaser	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS1217	NA
+ERR7167064_bin.22	cmag_819	stable	increaser	Bacteria	Firmicutes	Bacilli	RF39	UBA660	CAG-594	NA
+ERR7167064_bin.37	cmag_820	increaser	increaser	Bacteria	Firmicutes_A	Clostridia	TANB77	CAG-508	CAG-269	NA
+ERR7167064_bin.48	cmag_821	decreaser	stable	Bacteria	Firmicutes	Bacilli	RF39	UBA660	UMGS2016	NA
+ERR7167219_bin.12	cmag_822	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Oscillospirales	Acutalibacteraceae	NA	NA
+ERR7167219_bin.2	cmag_823	decreaser	stable	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR7167219_bin.28	cmag_824	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	NA	NA
+ERR7167219_bin.7	cmag_825	decreaser	decreaser	Bacteria	Firmicutes_A	Clostridia	Lachnospirales	Lachnospiraceae	Mediterraneibacter	NA

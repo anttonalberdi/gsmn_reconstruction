@@ -1,13 +1,17 @@
+#List sample wildcards
+samples, = glob_wildcards("mag_catalogue/{sample}.fa")
+
+#Expand target files
 rule all:
     input:
-        expand("{sample}/{sample}.gbk")
+        expand("genomes/{sample}/{sample}.gbk", sample=samples)
 
 rule prodigal:
     input:
-        "{sample}.fa"
+        "mag_catalogue/{sample}.fa"
     output:
-        fna="{sample}/{sample}.genes.fna",
-        faa="{sample}/{sample}.genes.faa"
+        fna=temp("genomes/{sample}/{sample}.genes.fna"),
+        faa=temp("genomes/{sample}/{sample}.genes.faa")
     params:
         jobname="{sample}.pr"
     conda:
@@ -24,31 +28,32 @@ rule prodigal:
 
 rule eggnogmapper:
     input:
-        "{sample}/{sample}.genes.faa"
+        "genomes/{sample}/{sample}.genes.faa"
     output:
-        ann="{sample}/{sample}.emapper.annotations",
-        hit="{sample}/{sample}.emapper.hits"
+        ann=temp("genomes/{sample}/{sample}.emapper.annotations"),
+        hit=temp("genomes/{sample}/{sample}.emapper.hits"),
+        ort=temp("genomes/{sample}/{sample}.emapper.seed_orthologs")
     params:
         jobname="{sample}.eg",
         outname="{sample}",
-        outdir="{sample}"
+        outdir="genomes/{sample}"
     conda:
         "environment.yml"
     threads:
         8
     resources:
         mem_gb=24,
-        time='02:00:00',
-        tmpdir="{sample}/tmp"
+        time='06:00:00',
+        tmpdir="tmp"
     shell:
         """
         emapper.py  \
             -i {input} \
-            --cpu 8 \
+            --cpu {threads} \
             --data_dir /projects/mjolnir1/data/databases/eggnog-mapper/20230317/ \
             -o {params.outname} \
             --output_dir {params.outdir} \
-            --temp_dir /projects/mjolnir1/people/jpl786/eggnog/campylobacter_jejuni/tmp \
+            --temp_dir {resources.tmpdir} \
             -m diamond --dmnd_ignore_warnings \
             --itype proteins \
             --evalue 0.001 --score 60 --pident 40 --query_cover 20 --subject_cover 20 \
@@ -58,14 +63,13 @@ rule eggnogmapper:
 
 rule emapper2gbk:
     input:
-        fna="{sample}/{sample}.genes.fna",
-        faa="{sample}/{sample}.genes.faa",
-        ann="{sample}/{sample}.emapper.annotations"
+        fna="genomes/{sample}/{sample}.genes.fna",
+        faa="genomes/{sample}/{sample}.genes.faa",
+        ann="genomes/{sample}/{sample}.emapper.annotations"
     output:
-        "{sample}/{sample}.gbk"
+        "genomes/{sample}/{sample}.gbk"
     params:
-        jobname="{sample}.gb",
-        samplename="{sample}"
+        jobname="{sample}.gb"
     conda:
         "environment.yml"
     threads:
@@ -75,10 +79,5 @@ rule emapper2gbk:
         time='00:20:00'
     shell:
         """
-        emapper2gbk genes \
-            -fn {input.fna} \
-            -fp {input.faa} \
-            -a {input.ann} \
-            -n {params.samplename} \
-            -o {output}
+        emapper2gbk genes -fn {input.fna} -fp {input.faa} -a {input.ann} -o {output}
         """

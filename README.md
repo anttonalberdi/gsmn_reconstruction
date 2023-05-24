@@ -44,17 +44,64 @@ sed '/^#/d' eggnog/cje.emapper.decorated.gff | awk -F'\t' -v OFS='\t' '{$1=$1 "_
 emapper2gbk genomes -fn eggnog/campylobacter_jejuni.fa -fp eggnog/cje.emapper.genepred.fasta -g eggnog/cje.emapper.decorated2.gff -n "Campylobacter jejuni" -o eggnog/cje.gbk -a eggnog/cje.emapper.annotations
 
 emapper2gbk genes -fn eggnog/campylobacter_jejuni.fna -fp eggnog/campylobacter_jejuni.faa -n "Campylobacter jejuni" -o eggnog/cje.gbk -a eggnog/campylobacter_jejuni.emapper.annotations
-
 ```
 
-Prodigal > emapper > emapper2gbk
+
+### Create gbk annotations for MAGs
+Input genome files must be stored in the 'genomes' folder with .fa extension
+
+```
+git clone https://github.com/anttonalberdi/campylo_gsmn.git
+cd campylo_gsmn
+
+#Replace dots for underscores in the genome names (to avoid downstream issues)
+cd campylo_gsmn/genomes
+for f in *.*;
+  do pre="${f%.*}"; suf="${f##*.}"; \
+  mv -i -- "$f" "${pre//./_}.${suf}";
+done
+cd ../
+
+#Run annotation
+screen -S campylo_gsmn
+module purge && module load snakemake/7.20.0 mamba/1.3.1
+snakemake \
+  -j 20 \
+  --cluster 'sbatch -o logs/{params.jobname}-slurm-%j.out --mem {resources.mem_gb}G --time {resources.time} -c {threads} --job-name={params.jobname} -v' \
+  --use-conda --conda-frontend mamba --conda-prefix conda \
+  --latency-wait 600
+```
 
 ### Run metabolic network reconstructions
 m2m recon runs metabolic network reconstruction for all annotated genomes, using Pathway Tools.
 ```
+conda activate m2m
 cd /Users/anttonalberdi/github/campylo_gsmn
 mkdir recon
 m2m recon -g genomes -o recon -c 2
+```
+
+### Visualise SBMLs in fluxer
+
+https://fluxer.umbc.edu/
+
+### Prepare seeds file
+
+```
+conda activate m2m
+cd /Users/anttonalberdi/github/campylo_gsmn
+mkdir seeds
+m2m seeds --metabolites seeds/seeds_broilers.txt -o seeds/
+```
+
+Or download them from the internet
+
+```
+cd /Users/anttonalberdi/github/campylo_gsmn
+mkdir seeds
+cd seeds
+wget https://raw.githubusercontent.com/AuReMe/metage2metabo/master/article_data/gut_microbiota/seeds_gut_final.sbml
+cd ../
 ```
 
 ### Run metabolic network reconstructions
@@ -70,13 +117,10 @@ m2m metacom runs all analyses: individual scopes, community scopes, and minimal 
 **Added value**: metabolic added-value of cooperation over individual metabolism. The metabolites that can only be reached by the combined action of microorganisms.
 
 ```
+conda activate m2m
 cd /Users/anttonalberdi/github/campylo_gsmn
-mkdir seeds
-cd seeds
-wget https://raw.githubusercontent.com/AuReMe/metage2metabo/master/article_data/gut_microbiota/seeds_gut_final.sbml
-cd ../
 mkdir metacom
-m2m metacom -n recon/sbml -s seeds/seeds_gut_final.sbml  -o metacom
+m2m metacom -n recon/sbml -s seeds/seeds.sbml  -o metacom
 ```
 
 Campylobacter jejuni
