@@ -26,3 +26,10 @@ cp ~/pathway-tools/pathway-tools /usr/local/bin
 #Test m2m
 conda activate m2m
 m2m -h
+
+#For gsmn analysis in MJ
+module purge && module load snakemake/7.20.0 mamba/1.3.1
+conda create --name gsmn python==3.7.5
+
+conda activate gsmn
+pip install cobra

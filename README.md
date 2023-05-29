@@ -1,68 +1,35 @@
-# campylo_gsmn
-Genome-scale metabolic networks of Campylobacter and related bacteria
+# Campylobacter GSMN analyses
+Genome-scale metabolic networks of Campylobacter and related bacteria. The repository contains several bits of code.
 
-### Download annotated genomes
-Annotated genomes (gbff format) can be downloaded from the NCBI, and each genome must be stored inside a folder inside the genomes folder.
+1. Snakemake pipeline (snakefile) for generating genome-scale metabolic networks (SBML format) from MAG sequences.
+2. Python script (analysis.py) to calculate interdependencies between MAGs using SBML files.
+3. R script (analysis.r) to analyse interdependencies across animals, enterotypes, etc.
 
-```
-mkdir /Users/anttonalberdi/github/campylo_gsmn/genomes
-cd /Users/anttonalberdi/github/campylo_gsmn/genomes
+## 1 - Create gbk annotations and sbml networks for MAGs
+Input genome files must be stored in the 'genomes' folder with .fa extension. Note that the process of sbml generation creates intermediate files in the following directory in Mjolnir:
+`/maps/projects/mjolnir1/apps/pathway-tools-27.0/ptools-local/pgdbs/user/`
+These are not required for the downstream analyses, so they should ideally be removed to avoid occupying unnecessary space.
 
-mkdir Bacteroides_fragilis_A
-cd Bacteroides_fragilis_A
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/724/805/GCF_000724805.2_ASM72480v2/GCF_000724805.2_ASM72480v2_genomic.gbff.gz
-gunzip GCF_000724805.2_ASM72480v2_genomic.gbff.gz
-mv GCF_000724805.2_ASM72480v2_genomic.gbff Bacteroides_fragilis_A.gbff
-cd ..
-
-mkdir Campylobacter_jejuni
-cd Campylobacter_jejuni
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/457/695/GCF_001457695.1_NCTC11351/GCF_001457695.1_NCTC11351_genomic.gbff.gz
-gunzip GCF_001457695.1_NCTC11351_genomic.gbff.gz
-mv GCF_001457695.1_NCTC11351_genomic.gbff Campylobacter_jejuni.gbff
-cd ..
-
-mkdir Campylobacter_coli
-cd Campylobacter_coli
-wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/009/730/395/GCF_009730395.1_ASM973039v1/GCF_009730395.1_ASM973039v1_genomic.gbff.gz
-gunzip GCF_009730395.1_ASM973039v1_genomic.gbff.gz
-mv GCF_009730395.1_ASM973039v1_genomic.gbff Campylobacter_coli.gbff
-cd ..
-
-cd ..
-```
-
-### Download eggnog-annotated genomes and convert to gbk
-```
-conda activate m2m
-cd /Users/anttonalberdi/github/campylo_gsmn/
-
-#Fix formatting issue of the GFF file
-sed '/^#/d' eggnog/cje.emapper.decorated.gff | awk -F'\t' -v OFS='\t' '{$1=$1 "_" (++count[$1])}1' | sed 's/\(ID=[^;]*\);partial[^;]*;//g' | awk '$0 = "ID=" $0' |  awk -F  '\t' ' { printf "%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s\t%s;%s\n",$1,$2,$3,$4,$5,$6,$7,$8,$1,$9; }' | sed 's/^ID=//g' > eggnog/cje.emapper.decorated2.gff
-
-#Not working (it seems that it requires circular genomes)
-emapper2gbk genomes -fn eggnog/campylobacter_jejuni.fa -fp eggnog/cje.emapper.genepred.fasta -g eggnog/cje.emapper.decorated2.gff -n "Campylobacter jejuni" -o eggnog/cje.gbk -a eggnog/cje.emapper.annotations
-
-emapper2gbk genes -fn eggnog/campylobacter_jejuni.fna -fp eggnog/campylobacter_jejuni.faa -n "Campylobacter jejuni" -o eggnog/cje.gbk -a eggnog/campylobacter_jejuni.emapper.annotations
-```
-
-
-### Create gbk annotations for MAGs
-Input genome files must be stored in the 'genomes' folder with .fa extension
-
+### Clone this repository
 ```
 git clone https://github.com/anttonalberdi/campylo_gsmn.git
 cd campylo_gsmn
+```
 
-#Replace dots for underscores in the genome names (to avoid downstream issues)
+### Prepare MAG fasta files
+Replace dots for underscores in the genome names to avoid downstream issues.
+```
 cd campylo_gsmn/genomes
 for f in *.*;
   do pre="${f%.*}"; suf="${f##*.}"; \
   mv -i -- "$f" "${pre//./_}.${suf}";
 done
 cd ../
+```
 
-#Run annotation
+### Run annotation and network generation pipeline
+On a screen session, launch the snakefile to generate the SBMLs
+```
 screen -S campylo_gsmn
 module purge && module load snakemake/7.20.0 mamba/1.3.1
 snakemake \
@@ -72,18 +39,26 @@ snakemake \
   --latency-wait 600
 ```
 
-### Run metabolic network reconstructions
-m2m recon runs metabolic network reconstruction for all annotated genomes, using Pathway Tools.
-```
-conda activate m2m
-cd /Users/anttonalberdi/github/campylo_gsmn
-mkdir recon
-m2m recon -g genomes -o recon -c 2
-```
-
-### Visualise SBMLs in fluxer
-
+### Visualise SBMLs in FLUXER
+SBML files can be visualised in the online tool
 https://fluxer.umbc.edu/
+
+## 2 - Perform dependence calculations
+Create conda environment with cobra installed on it.
+```
+module purge && module load snakemake/7.20.0 mamba/1.3.1
+conda create --name gsmn python==3.7.5
+conda activate gsmn
+pip install cobra
+python
+```
+Once in python use the `gsmn_analysis.py` scripts.
+
+## 3 - Analyse interdependencies
+Once in R use the `gsmn_analysis.r` scripts.
+
+
+## Other stuff to be deleted
 
 ### Prepare seeds file
 
@@ -107,7 +82,6 @@ cd ../
 ### Run metabolic network reconstructions
 m2m metacom runs all analyses: individual scopes, community scopes, and minimal community selection based on the metabolic added-value of the microbiota.
 
-
 **Scope**: the metabolic potential or reachable metabolites in given nutritional conditions described as seed compounds.
 
 **indiv_scopes.json**: set of reachable metabolites for each organism organised by organisms. ***Warning: the seeds are included in the scopes, hence they will never be empty.***
@@ -122,12 +96,3 @@ cd /Users/anttonalberdi/github/campylo_gsmn
 mkdir metacom
 m2m metacom -n recon/sbml -s seeds/seeds.sbml  -o metacom
 ```
-
-Campylobacter jejuni
-ERR4836918_bin.11
-
-Campylobacter coli
-ERR4836965_bin.9.fa
-
-Bacteroides fragilis_A
-ERR4968581_bin.26
