@@ -7,7 +7,7 @@
 ######
 
 # 1) Copy this snakefile to the working directory
-# 2) Store the genome sequences in the folder 'mag_catalogue' in the working directory with extension .fa
+# 2) Store the genome sequences in the folder 'mag_catalogue' in the working directory with extension .fa, and without any "." or "/" in the file name besides the .fa.
 # 3) Launch the snakemake using the following code:
 # snakemake -j 20 --cluster 'sbatch -o logs/{params.jobname}-slurm-%j.out --mem {resources.mem_gb}G --time {resources.time} -c {threads} --job-name={params.jobname} -v'   --use-conda --conda-frontend mamba --conda-prefix conda --latency-wait 600
 # 4) Output files (gbk and sbml) will be produced in the genomes directory
@@ -93,6 +93,7 @@ rule emapper2gbk:
         time='00:20:00'
     shell:
         """
+	    export PATH=$PATH:/home/jpl786/.local/bin
         emapper2gbk genes -fn {input.fna} -fp {input.faa} -a {input.ann} -o {output.file}
         """
 
